@@ -1,0 +1,5 @@
+a)
+  float salario, percentual_reajuste;
+
+b)
+  salario += salario * percentual_reajuste

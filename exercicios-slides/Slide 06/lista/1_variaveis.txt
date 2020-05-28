@@ -1,0 +1,9 @@
+a)
+  float preco_kg_legume;
+
+b)
+  float delta, a, b, c;
+
+c)
+  char nome[51];
+  int dia, mes, ano, idade;
